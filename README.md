@@ -6,8 +6,11 @@
 
 <div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&color=EBA60E&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Moinul+Islam+👋" />
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=46&pause=1200&color=FFD700&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile+👋;Hi%2C+I'm+Moinul+Islam;Flutter+%26+Mobile+App+Developer;Flutter+%7C+Dart+%7C+HTML;REST+API+Integration+%7C+React"
+    alt="Typing SVG"
+  />
 </h1>
 
 </div>
