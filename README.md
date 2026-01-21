@@ -36,10 +36,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white)
 
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma)
+
 
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git)
@@ -48,38 +45,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moinulislam0&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinulislam0&layout=compact&theme=tokyonight" width="40%" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moinulislam0&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moinulislam0&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="moinul15-3786@diu.edu.bd">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/moinul-islam-02949b2b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/>
   </a>
 </p>
