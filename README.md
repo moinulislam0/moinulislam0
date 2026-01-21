@@ -48,10 +48,13 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="moinul15-3786@diu.edu.bd">
+  <!-- Email -->
+  <a href="mailto:moinul15-3786@diu.edu.bd">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/moinul-islam-02949b2b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/moinul-islam-02949b2b5">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/>
   </a>
 </p>
