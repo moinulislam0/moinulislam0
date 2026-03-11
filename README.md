@@ -23,6 +23,7 @@
 
 - 💻 **Flutter Developer**
 - 📱 **Mobile Application Engineer**
+- 🏢 Currently working at **Softvene**
 - 🔥 Passionate about clean architecture & performance
 - 🌱 Currently learning **Backend Development**
 - ⚡ Love building scalable real-world apps
@@ -30,13 +31,29 @@
 
 ---
 
+## 💼 Experience
+
+- 🚀 **Software Engineer** at **Softvene** (Present)
+- 🎓 **Internship** (3 Months)
+
+---
+
 ## 🚀 Tech Stack
 
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white)
+### 📱 Mobile & Frameworks
+- **Flutter & Dart:** Building high-performance, cross-platform applications for Android and iOS.
+- **REST API:** Expert in integrating complex RESTful APIs and JSON data handling.
 
+### ☁️ Firebase Integration
+- **Firebase Authentication:** Implementing secure user sign-in methods (Email/Password, Google, etc.).
+- **Cloud Firestore:** Designing and managing real-time NoSQL databases for seamless data sync.
+- **FCM (Firebase Cloud Messaging):** Handling cloud-based push notifications for user engagement.
+- **In-App Notifications:** Managing local and remote notification triggers within the application.
 
+### 🏗️ State Management
+- **GetX:** Utilizing for fast and lightweight state management, route management, and dependency injection.
+- **Provider:** Implementing scalable state solutions using InheritedWidgets.
+- **Riverpod:** Ensuring a robust, compile-safe, and testable state management architecture.
 
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git)
@@ -81,4 +98,4 @@
 
 ---
 
-⭐️ From **[moinulislam0](https://github.com/moinulislam0)**  
+⭐️ From **[moinulislam0](https://github.com/moinulislam0)**
