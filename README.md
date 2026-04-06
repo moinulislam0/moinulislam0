@@ -33,7 +33,7 @@
 
 ## 💼 Experience
 
-- 🚀 **Software Engineer** at **Softvene** (Present)
+- 🚀 **Software Engineer** at **Softvene** (Nov - Present)
 - 🎓 **Internship** At IRD Foundation (3 Months Aug-Nov)
 
 ---
