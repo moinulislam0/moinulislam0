@@ -23,7 +23,7 @@
 
 - 💻 **Flutter Developer**
 - 📱 **Mobile Application Engineer**
-- 🏢 Currently working at **Softvene**
+- 🏢 Currently working at **Softvene Delta**
 - 🔥 Passionate about clean architecture & performance
 - 🌱 Currently learning **Backend Development**
 - ⚡ Love building scalable real-world apps
