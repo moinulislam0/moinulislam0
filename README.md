@@ -13,6 +13,11 @@
   />
 </h1>
 
+<!--  PORTFOLIO BUTTON  -->
+<a href="https://moinulislam0.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+</a>
+
 </div>
 
 ---
@@ -23,6 +28,7 @@
 
 - 💻 **Flutter Developer**
 - 📱 **Mobile Application Engineer**
+- 🌐 **Portfolio:** [moinulislam.me](https://moinulislam0.github.io/portfolio/) 👈 *Check out my work!*
 - 🏢 Currently working at **Softvene Delta**
 - 🔥 Passionate about clean architecture & performance
 - 🌱 Currently learning **Backend Development**
@@ -65,6 +71,11 @@
 ## 📫 Connect With Me
 
 <p align="left">
+  <!-- Portfolio -->
+  <a href="https://moinulislam0.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-FFD700?style=plastic&logo=google-chrome&logoColor=black"/>
+  </a>
+  
   <!-- Email -->
   <a href="mailto:moinul15-3786@diu.edu.bd">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/>
