@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/sva_d_op_5-mac-mini07/development/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/sva_d_op_5-mac-mini07/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/sva_d_op_5-mac-mini07/Desktop/Moinul/jwells234/android/app/.cxx/debug/c3s6l4k5/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/sva_d_op_5-mac-mini07/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/sva_d_op_5-mac-mini07/Desktop/Moinul/jwells234/android/app/.cxx/debug/c3s6l4k5/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

@@ -1,0 +1,2 @@
+/Users/sva_d_op_5-mac-mini07/Desktop/Moinul/jwells234/android/app/.cxx/debug/c3s6l4k5/x86_64/CMakeFiles/edit_cache.dir
+/Users/sva_d_op_5-mac-mini07/Desktop/Moinul/jwells234/android/app/.cxx/debug/c3s6l4k5/x86_64/CMakeFiles/rebuild_cache.dir

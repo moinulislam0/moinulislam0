@@ -1,0 +1,30 @@
+# Flutter
+.dart_tool/
+.packages
+build/
+
+# Android
+/android/.gradle/
+/android/build/
+/android/app/build/
+/android/.cxx/
+/android/captures/
+
+# iOS
+/ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/ephemeral/
+
+# Local machine
+/local.properties
+
+# Security
+key.properties
+*.keystore
+*.jks
+
+# System
+.DS_Store
+.idea/
+.vscode/
+*.iml
